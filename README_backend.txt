@@ -189,8 +189,3 @@ Common issues
      (using the Supabase SQL editor or psql).
    - Ensure that the event_id you request (e.g., /api/events/1/summary)
      actually exists in rsvps/attendance/feedback tables.
-
-
-License
--------
-Add your chosen license information here (MIT, Apache-2.0, etc.) if needed.
